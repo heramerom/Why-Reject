@@ -91,6 +91,7 @@
 - App中有IAP内购，但是没有恢复内购的按钮
 - 强制玩家给App评5星好评
 - 没有兼容iOS
+- 奖励有iPhone但是没有声明和苹果公司无关。
 
 ## 说明
 - 欢迎 [Fork本项目](https://github.com/jcccn/Why-Reject/fork) 来一起完善
